@@ -1,0 +1,18 @@
+body
+{
+ background-color: black;
+}
+.font
+{
+color:white;
+font-family: Libre Baskerville;
+text-align: center;
+}
+.image
+{
+    margin-left: 22%;
+}
+img
+{
+    border: 5px solid white;
+}
